@@ -1,0 +1,8 @@
+#companyListContainer, #companyFormContainer {
+    padding: 30px 0;
+}
+
+#companyListTitle, #companyFormTitle {
+    text-align: center;
+    padding: 10px 0 0 0;
+}

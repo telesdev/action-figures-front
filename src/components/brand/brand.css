@@ -1,0 +1,8 @@
+#brandListContainer, #brandFormContainer {
+    padding: 30px 0;
+}
+
+#brandListTitle, #brandFormTitle {
+    text-align: center;
+    padding: 10px 0 0 0;
+}
